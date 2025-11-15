@@ -20,7 +20,3 @@ I create clean, intuitive, and scalable web experiences — bridging design and 
 - **Email:** ars.chatriwala@gmail.com  
 - **GitHub:** github.com/AbduLRafaY87
 - **Website:** archatriwala.com  
-
----
-
-*“Design is not just how it looks — but how it works.”*  
