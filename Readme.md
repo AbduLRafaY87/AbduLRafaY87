@@ -1,1 +1,25 @@
-Hello I am Abdul Rafay
+# 👋 Hi, I’m Abdul Rafay Chatriwala
+
+**Founder @ Chatriwala | Front-end Dev with Full-Stack Passion**
+
+I create clean, intuitive, and scalable web experiences — bridging design and code to deliver seamless user interactions.  
+
+### ⚙️ Skills & Tech  
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Backend:** Node.js / Express (or your stack)  
+- **Design:** UI/UX thinking, wireframing, responsive layouts  
+- **Tools:** Git, RESTful APIs, version control  
+
+### 🚀 What I’m Building  
+- **Chatriwala** — my venture, focused on building user-centric digital products  
+- Web apps with a focus on UX, maintainability, and performance  
+- Side projects that challenge me to learn new frameworks and architecture patterns
+
+### 📫 Let’s Connect  
+- **LinkedIn:** linkedin.com/in/abdul-rafay-chatriwala  
+- **Email:** your-email@example.com  
+- **GitHub:** github.com/yourusername  
+
+---
+
+*“Design is not just how it looks — but how it works.”*  
