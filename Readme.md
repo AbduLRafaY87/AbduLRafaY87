@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Abdul Rafay Chatriwala
 
-**Founder @ Chatriwala | Front-end Dev with Full-Stack Passion**
+**Co-founder @ PrimeCreators | Aspiring Full Stack Developer**
 
 I create clean, intuitive, and scalable web experiences — bridging design and code to deliver seamless user interactions.  
 
 ### ⚙️ Skills & Tech  
 - **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Node.js / Express (or your stack)  
+- **Backend:** Node.js / Express   
 - **Design:** UI/UX thinking, wireframing, responsive layouts  
 - **Tools:** Git, RESTful APIs, version control  
 
@@ -17,8 +17,9 @@ I create clean, intuitive, and scalable web experiences — bridging design and 
 
 ### 📫 Let’s Connect  
 - **LinkedIn:** linkedin.com/in/abdul-rafay-chatriwala  
-- **Email:** your-email@example.com  
-- **GitHub:** github.com/yourusername  
+- **Email:** ars.chatriwala@gmail.com  
+- **GitHub:** github.com/AbduLRafaY87
+- **Website:** archatriwala.com  
 
 ---
 
