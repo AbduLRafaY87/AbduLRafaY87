@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdul Rafay Chatriwala
 
-**Co-founder @ PrimeCreators | Aspiring Full Stack Developer**
+**Co-founder @ PrimeCreators | Full Stack Developer**
 
 I create clean, intuitive, and scalable web experiences — bridging design and code to deliver seamless user interactions.  
 
