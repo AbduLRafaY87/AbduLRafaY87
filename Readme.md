@@ -204,44 +204,6 @@ A community platform where YLC participants and alumni can showcase Social Actio
 
 ---
 
-### 💻 CosheShell
-
-**In-Browser Code Editor**
-
-A browser-based development environment with live preview and syntax highlighting for HTML, CSS, and JavaScript.
-
-`React` `Vite` `Monaco Editor`
-
----
-
-### 🎧 ConnectHear
-
-**Accessible Digital Experience**
-
-Worked on an accessible web platform during my onsite internship, contributing across frontend, backend, and database development for technology serving the deaf and hard-of-hearing community.
-
----
-
-### 🧑‍🎓 Global Student Cube
-
-**A platform for students navigating university applications**
-
-Built around the messy reality of applications — profiles, universities, applications, documents, essays, and the information students need to keep everything organized.
-
-`Next.js` `Supabase` `TypeScript`
-
----
-
-### 🧩 Relixor
-
-**Understand how your code connects.**
-
-A VS Code extension that analyzes a codebase and helps developers understand files, symbols, imports, exports, and relationships across a project.
-
-`TypeScript` `VS Code API`
-
----
-
 # 🧠 How I Think About Building
 
 I like keeping my development process simple:
