@@ -68,18 +68,6 @@ I run Chatriwala, a design and development studio focused on helping businesses,
 
 ---
 
-### 🌍 Beyond YLC
-
-One of my favorite projects started with a simple idea after the **Young Leaders Conference**.
-
-I built **Beyond YLC** as a platform for YLC participants and alumni to showcase their Social Action Projects, document impact, and connect the work happening across the community.
-
-What started as a participant-led idea evolved into a platform used by the broader YLC community.
-
-→ [Explore Beyond YLC](https://beyondylc.sol.edu.pk/)
-
----
-
 ### 🎓 Teaching & Knowledge Sharing
 
 I enjoy explaining technical concepts in a way that actually makes sense.
@@ -203,36 +191,6 @@ A community platform where YLC participants and alumni can showcase Social Actio
 → [beyondylc.sol.edu.pk](https://beyondylc.sol.edu.pk/)
 
 ---
-
-# 🧠 How I Think About Building
-
-I like keeping my development process simple:
-
-```text
-   ┌─────────────┐
-   │   DISCOVER   │
-   └──────┬──────┘
-          ↓
-   ┌─────────────┐
-   │    DESIGN    │
-   └──────┬──────┘
-          ↓
-   ┌─────────────┐
-   │    BUILD     │
-   └──────┬──────┘
-          ↓
-   ┌─────────────┐
-   │    TEST      │
-   └──────┬──────┘
-          ↓
-   ┌─────────────┐
-   │    SHIP      │
-   └──────┬──────┘
-          ↓
-   ┌─────────────┐
-   │   IMPROVE    │
-   └─────────────┘
-```
 
 **Good software isn't just functional.**
 
